@@ -12,6 +12,16 @@
 2. Run main file
   ` python main.py `
 
+### Inputs
+1. #### data.json : 
+List of messages with their timestamp
+## Outputs
+1. #### count.html : 
+Plot of number of messages per day
+2. #### sentiment.html : 
+Plot of average sentiments per day
+
+![Sentiment](/Average_sentiments.JPG)
 ## Plots
 
 ## Number of messages per day
